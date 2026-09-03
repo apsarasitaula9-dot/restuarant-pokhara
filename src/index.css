@@ -14,12 +14,6 @@
     
  
   }   
- body {
-    @apply bg-cream-50 text-charcoal-900 font-sans antialiased;
-    
- 
-  }
-  
 
   ::selection {
     @apply bg-copper-400/30 text-charcoal-900;
